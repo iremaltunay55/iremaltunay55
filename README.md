@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#4F46E5;">İrem Altunay</span></h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#4F46E5;">Irem Altunay</span></h1>
 <h3 align="center">🚀 Software Engineer | Turning ideas into code & continuously growing 🌱</h3>
 
 <p align="center">
