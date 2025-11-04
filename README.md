@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Irem Altunay</h1>
+<h3 align="center">A software engineer passionate about turning innovative ideas into code and constantly growing.</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iremaltunay55&label=Profile%20views&color=0e75b6&style=flat" alt="iremaltunay55" /> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -12,5 +14,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iremaltunay55&show_icons=true&locale=en&layout=compact" alt="iremaltunay55" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iremaltunay55&show_icons=true&locale=en" alt="iremaltunay55" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iremaltunay55&" alt="iremaltunay55" /></p>
